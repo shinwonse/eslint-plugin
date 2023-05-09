@@ -1,6 +1,7 @@
 {
   "name": "@wonse/eslint-plugin",
   "version": "0.0.1",
+  "private": false,
   "description": "My own eslint-plugin by @wonse",
   "main": "index.js",
   "scripts": {
